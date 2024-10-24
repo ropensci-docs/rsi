@@ -1,0 +1,11 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  articles/Downloading-data-from-STAC-APIs-using-rsi: Downloading-data-from-STAC-APIs-using-rsi.html
+  articles/How-can-I-: How-can-I-.html
+  rsi: rsi.html
+last_built: 2024-10-24T00:53Z
+urls:
+  reference: https://docs.ropensci.org/rsi/reference
+  article: https://docs.ropensci.org/rsi/articles

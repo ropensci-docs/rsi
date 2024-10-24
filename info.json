@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "22fe07c23ea046524bbdb11adaca6616b686af2f",
+    "author": "Mike Mahoney <mike.mahoney.218@gmail.com>",
+    "time": "2024-10-24 00:23:14",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number to 0.3.1.9000\n"
+  },
+  "repo": "https://github.com/Permian-Global-Research/rsi",
+  "pkg": "rsi"
+}
